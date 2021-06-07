@@ -1,0 +1,3 @@
+include ':FnDisplaySize'
+include ':app'
+rootProject.name = "FnDisplaySize"
